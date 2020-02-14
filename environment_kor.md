@@ -46,14 +46,10 @@
 (RTS)](https://en.wikipedia.org/wiki/Real-time_strategy) 게임으로 가장 성공적인 RTS게임 중 하나인 [StarCraft
 Broodwar](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)의 후계자이다. StarCraft II는 수백만명이 플레이하며 [professional league](https://wcs.starcraft2.com/en-us/)를 가지고 있다.
 
-The [goal in StarCraft](http://us.battle.net/sc2/en/game/guide/whats-sc2) is to
-build a base, manage an economy, build an army, and destroy your enemies. You
-control your base and army from a third person perspective, then multi-task and
-micro-manage your units for maximum effect. StarCraft has 3 distinct races:
-[Terran](https://www.youtube.com/watch?v=Fmu8PsUDDtQ),
-[Protoss](https://www.youtube.com/watch?v=m0g0MpllFCs) and
-[Zerg](https://www.youtube.com/watch?v=Lq74R7wWAnQ), which have different units
-and strategies.
+[스타크래프트의 목표](http://us.battle.net/sc2/en/game/guide/whats-sc2)는 기지를 건설하고, 경제를 관리하고, 군대를 건설하고, 적을 섬멸하는 것이다. 플레이어는 제3자의 시점에서 기지와 군대를 통제한 다음 플레이어의 부대를 최대의 효과를 얻기 위해 멀티태스킹과 섬세한 관리를 한다. 스타크래프트에는 전략과 유닛이 서로 다른 세가지 종족이 있다.:
+[테란(Terran)](https://www.youtube.com/watch?v=Fmu8PsUDDtQ),
+[프로토스(Protoss)](https://www.youtube.com/watch?v=m0g0MpllFCs),
+[저그(Zerg)](https://www.youtube.com/watch?v=Lq74R7wWAnQ).
 
 The game has a single player campaign, though most people play multiplayer on
 [Battle.net](http://battle.net/sc2/en/). There are built-in bots, but they are
