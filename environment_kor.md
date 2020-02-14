@@ -51,15 +51,12 @@ Broodwar](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)의 후계자이다
 [프로토스(Protoss)](https://www.youtube.com/watch?v=m0g0MpllFCs),
 [저그(Zerg)](https://www.youtube.com/watch?v=Lq74R7wWAnQ)
 
-The game has a single player campaign, though most people play multiplayer on
-[Battle.net](http://battle.net/sc2/en/). There are built-in bots, but they are
-fairly weak and predictable, and the stronger ones cheat.
+대부분의 사람들이 [배틀넷(Battle.net)](http://battle.net/sc2/en/)에서 멀티플레이를 하지만 이 게임에는 싱글 플레이어 캠페인이 있다. 기본 내장된 봇(bots)이 있지만 상당히 약하고 예측가능한 플레이를 한다.
 
-There are many resources online for learning about Starcraft, including
-[Battle.net](http://battle.net/sc2/en/),
-[Liquipedia](http://liquipedia.net/starcraft2/StarCraft) and
-[Wikia](http://starcraft.wikia.com/). For map making check out
-[SC2Mapster](https://sc2mapster.gamepedia.com/SC2Mapster_Wiki).
+온라인에서 스타크래프트에 대해 배우기 위해서는 [배틀넷(Battle.net)](http://battle.net/sc2/en/),
+[리퀴드 위키피디아(Liquipedia)](http://liquipedia.net/starcraft2/StarCraft) 그리고
+[위키(Wikia)](http://starcraft.wikia.com/)가 있다. 지도 제작은 
+[SC2Mapster](https://sc2mapster.gamepedia.com/SC2Mapster_Wiki)를 참고한다.
 
 ### Versions
 
