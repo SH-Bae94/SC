@@ -60,17 +60,11 @@ Broodwar](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)의 후계자이다
 
 ### Versions
 
-Blizzard regularly updates StarCraft II. These updates are roughly monthly, can
-introduce new features, and often have minor gameplay and balance changes to
-make the races more even. Replays are tied to the specific version they were
-generated with.
+블리자드(게임회사)는 정기적으로 스타크래프트II를 업데이트한다. 이러한 업데이트는 매월 실시되며, 새로운 기능이 도입 되거나, 게임을 보다 균등(밸런스)하게 만들기 위해 사소한 게임 플레이와 밸런스 변경이 있는 경우가 많다. 리플레이(replay)는 특정 버전에 의존된다.(버전에 따라 리플레이 파일이 다르다.)
 
 ### Game and Action Speed
 
-Being a real-time strategy game means the game runs in real-time. In reality
-though, the simulation updates 16-22 times per second, depending on your [game
-speed](http://wiki.teamliquid.net/starcraft2/Game_Speed), and all the
-intermediate rendered frames are just interpolated.
+실시간 전략 게임은 게임이 실시간으로 진행된다는 것을 의미한다. 하지만 실제 시뮬레이션은 게임 속도[game speed](http://wiki.teamliquid.net/starcraft2/Game_Speed)에 따라 16~22회 업데이트 되며 중간 렌더링 프레임은 모두 보간된다.
 
 #### Game speed
 
