@@ -9,15 +9,15 @@
         - [APM과 공평함](#apm과-공평함)
     - [결정론과 무작위성](#결정론과-무작위성)
 - [행동과 관찰](#행동과-관찰)
-    - [Observation](#observation)
-        - [Spatial/Visual](#spatialvisual)
+    - [관찰](#관찰)
+        - [공간/시각](#공간/시각)
             - [RGB Pixels](#rgb-pixels)
             - [Feature layers](#feature-layers)
             - [Minimap](#minimap)
             - [Screen](#screen)
         - [Structured](#structured)
-            - [General player information](#general-player-information)
-            - [Control groups](#control-groups)
+            - [일반적인 플레이어 정보](#일반적인-플레이어-정보)
+            - [제어 그룹](#제어-그룹)
             - [Single Select](#single-select)
             - [Multi Select](#multi-select)
             - [Cargo](#cargo)
@@ -42,12 +42,9 @@
 ### What is StarCraft II
 
 [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Legacy_of_the_Void)
-is a [Real Time Strategy
-(RTS)](https://en.wikipedia.org/wiki/Real-time_strategy) game written by
-[Blizzard](http://blizzard.com/). It's the successor to [StarCraft
-Broodwar](https://en.wikipedia.org/wiki/StarCraft:_Brood_War), which is one of
-the most successful RTS games. StarCraft II is played by millions of people, and
-has a [professional league](https://wcs.starcraft2.com/en-us/).
+는 [Blizzard](http://blizzard.com/)가 만든 [Real Time Strategy
+(RTS)](https://en.wikipedia.org/wiki/Real-time_strategy) 게임으로 가장 성공적인 RTS게임 중 하나인 [StarCraft
+Broodwar](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)의 후계자이다. StarCraft II는 수백만명이 플레이하며 [professional league](https://wcs.starcraft2.com/en-us/)를 가지고 있다.
 
 The [goal in StarCraft](http://us.battle.net/sc2/en/game/guide/whats-sc2) is to
 build a base, manage an economy, build an army, and destroy your enemies. You
@@ -200,9 +197,9 @@ passing a screen coordinate to an action:
     action = actions.FunctionCall.Move_screen("now", target)
 ```
 
-### Observation
+### 관찰
 
-#### Spatial/Visual
+#### 공간/시각
 
 ##### RGB Pixels
 
@@ -297,7 +294,7 @@ The game offers a fair amount of structured data which agents aren't expected
 to read from pixels. Instead these are given as tensors with direct semantic
 meaning.
 
-##### General player information
+##### 일반적인 플레이어 정보
 
 A `(11)` tensor showing general information.
 
@@ -313,7 +310,7 @@ A `(11)` tensor showing general information.
 *   warp gate count (for protoss)
 *   larva count (for zerg)
 
-##### Control groups
+##### 제어 그룹
 
 A `(10, 2)` tensor showing the (unit leader type and count) for each of the 10
 control groups. The indices in this tensor are referenced by the `control-group`
